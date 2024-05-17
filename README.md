@@ -15,7 +15,7 @@ Team project to build a clone of [AirBnB](https://www.airbnb.com/).
 
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
 
-To see the fundamental background of the project visit the [Wiki](https://github.com/ralexrivero/AirBnB_clone/wiki).
+To see the fundamental background of the project visit the [Wiki](https://github.com/Sparkling24/AirBnB_clone/wiki).
 
 The console will perform the following tasks:
 
@@ -42,7 +42,7 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/izimartin/AirBnB_clone.git
+https://github.com/Sparkling24/AirBnB-clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -255,9 +255,9 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```bash
 (hbnb) create User
 1afa163d-486e-467a-8d38-3040afeaa1a1
-(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "kimanistephen729@gmail.com"
+(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "chimexdguybest2020@gmail.com"
 (hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1
-[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'kimanistephen729@gmail.com'}
+[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'chimexdguybest2020@gmail.com'}
 (hbnb)
 
 ```
@@ -265,15 +265,13 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Chiemezie Nwite</summary>
     <ul>
-    <li><a href="https://github.com/ChiemezieNwite">Github</a></li>
+    <li><a href="https://github.com/Sparkling24">Github</a></li>
     </ul>
 </details>
-<details>
-    <summary>steve waweru</summary>
-    <ul>
-    <li><a href="https://www.github.com/Stephenkimani27">Github</a></li>
-    </ul>
-   
-    
 
+<details>
+    <summary>henry sackey Sackey</summary>
+    <ul>
+    <li><a href="https://www.github.com/henry619">Github</a></li>
+    </ul>
 </details>
