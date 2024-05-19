@@ -11,11 +11,9 @@
 
 ## 0x01 Introduction
 
-Team project to build a clone of [AirBnB](https://www.airbnb.com/).
+Team project to build an Airbnb clone.
 
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
-
-To see the fundamental background of the project visit the [Wiki](https://github.com/ralexrivero/AirBnB_clone/wiki).
 
 The console will perform the following tasks:
 
@@ -260,7 +258,27 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 [User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'chimexdguybest2020@gmail.com'}
 (hbnb)
 
-```
+## Contributing
+
+> To get started...
+
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using 
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using. 
+---
+
 ## Authors
 <details>
     <summary>Chiemezie Nwite</summary>
